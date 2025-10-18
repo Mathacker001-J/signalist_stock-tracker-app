@@ -3,8 +3,8 @@ import {Button} from "@/components/ui/button";
 
 const Home = () => {
     return (
-        <div>Home
-        <Button>Click me</Button>
+        <div className="flex min-h-screen home-wrapper">
+        Home
         </div>
     )
 }
